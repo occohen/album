@@ -1,0 +1,43 @@
+body{
+    background-color: #d3d3d3;
+}
+
+#welcome{
+    text-align: center;
+    font-size: 200%;
+}
+#instruct{
+    text-align: center;
+    font-size: 200%;
+    color: rgba(90,146,217,255);
+   
+}
+#continue{
+    font-size: 200%;
+    position: absolute; 
+    color: #d3d3d3;
+    left: 65%;
+    top: 40%;
+    
+
+}
+a:link {
+    color:inherit;
+ }
+ a:visited {
+    color:inherit;
+ }
+.fade{
+    position: absolute;
+    left: 39%;
+    top:15%;
+
+    
+}
+.fade div{
+    position: absolute;   
+    top: 0;
+    left: 0;
+    display: none;
+
+}
